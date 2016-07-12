@@ -14,7 +14,7 @@ import com.cse24gmail.jakir.retrofit_demo.model.Movie;
 import java.util.List;
 
 /**
- * Created by RFsoftLab on 7/12/2016.
+ * Created by Jakir Hossain on 7/12/2016.
  */
 public class Adapter_Movies extends RecyclerView.Adapter<Adapter_Movies.MovieViewHolder>{
 

@@ -5,7 +5,7 @@ import com.google.gson.annotations.SerializedName;
 import java.util.List;
 
 /**
- * Created by RFsoftLab on 7/12/2016.
+ * Created by Jakir Hossain on 7/12/2016.
  */
 public class MoviesResponse {
 

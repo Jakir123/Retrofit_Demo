@@ -6,7 +6,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 /**
- * Created by RFsoftLab on 7/12/2016.
+ * Created by Jakir Hossain on 7/12/2016.
  */
 public class Movie {
     @SerializedName("poster_path")
